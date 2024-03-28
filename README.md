@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shubham Kumar Jha</h1>
 <h3 align="center">Learning and growing every day 😊</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/shubhamjha113/shubhamjha113/assets/144116862/ee128b1b-9d63-4d0b-921d-0d673364fdd2)
+<img align="right" alt="coding" width="400" src="[![image](https://github.com/shubhamjha113/shubhamjha113/assets/144116862/ee128b1b-9d63-4d0b-921d-0d673364fdd2)](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjha113&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjha113" /> </p>
 
